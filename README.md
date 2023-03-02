@@ -7,3 +7,4 @@
 * [crkbd](./crkbd/)
 * [dactyl-manuform](./dactyl-manuform/)
 * [ferris sweep](./sweep/)
+* [planck](./planck\(cstc40\))
